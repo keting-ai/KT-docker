@@ -21,4 +21,5 @@ Not yet implemented:
 - Remote Repository
 - And so on...
 
+Uses busybox to create an image for this project.  
 This project is only tested on Ubuntu Linux. Doesn't work for MacOS and Windows!
