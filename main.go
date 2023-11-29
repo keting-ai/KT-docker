@@ -10,7 +10,7 @@ import (
 
 const usage = `ktdocker is a simple container implementation, imitating the docker. 
 Available features are: 
-	init a container
+	run an initial command in the specified container
 	run a container
 	execute a container
 	stop a container
