@@ -7,7 +7,6 @@ The basic is:
 2. Using Cgroup to limit the resources
   
 Available features are:  
-- Run an initial command in the specified container  
 - Start run a container (an image, rigorously)  
 - Execute a container (this means a container exists, just start run it)  
 - Stop a container (stop running)  
