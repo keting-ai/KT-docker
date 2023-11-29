@@ -11,7 +11,8 @@ Available features are:
 - Run a container  
 - Execute a container  
 - Stop a container  
-- Remove a container  
+- Remove a container
+  
 Not implemented:  
 - Commit a container to an image  
 - Container network  
