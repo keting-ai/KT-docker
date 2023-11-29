@@ -8,7 +8,7 @@ The basic is:
   
 Available features are:  
 - Init a container  
-- Run a container  
+- Run a container (an image, rigorously)  
 - Execute a container  
 - Stop a container  
 - Remove a container
