@@ -16,7 +16,7 @@ Available features are:
 Not yet implemented:  
 - Deamon process
 - Registry
-- Commit a container to an image  
+- Commit a container to an image (just need to tar... but too lazy to do that...)  
 - Container network  
 - Remote Repository
 - And so on...
