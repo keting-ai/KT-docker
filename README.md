@@ -14,6 +14,11 @@ Available features are:
 - Remove a container
   
 Not yet implemented:  
+- Deamon process
+- Registry
 - Commit a container to an image  
 - Container network  
-- Remote Repository  
+- Remote Repository
+- And so on...
+
+This project is only tested on Ubuntu Linux. Doesn't work for MacOS and Windows!
